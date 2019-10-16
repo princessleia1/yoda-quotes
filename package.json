@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "23ec5a3f-20a6-4564-bbf8-54177cefe107",
+    "appType": "app",
+    "appDisplayName": "Yoda-Quotes",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Yoda-Quotes"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
