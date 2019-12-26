@@ -11,6 +11,11 @@
   <img width="175" height="175" src=./screenshots/yoda-quotes-versa-2.png>
 </p>
 
+## Versa 2 Device Updates
+**TODO:**
+- [ ] Update CSS, JS, GUI Files to support new Versa 2 Device.
+- [x] Update Background to support Versa 2 Device.
+
 ## Attribution
 **Yoda-Quotes** Image [Yoda-star-wars-jedi-she-makes-1091030](https://pixabay.com/illustrations/yoda-star-wars-jedi-she-makes-1091030/) Attribution [Comfreak](https://pixabay.com/users/comfreak-51581/) | Simplified [Pixabay License](https://pixabay.com/service/license/).
 
