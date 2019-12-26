@@ -3,6 +3,7 @@
 
 ## Devices
 **Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300) and Versa Lite (300x300).
+
 **Yoda-Quotes** Update for new Fitbit Versa 2 compatibility in progress.
 
 <p align="left">
