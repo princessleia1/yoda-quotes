@@ -2,7 +2,8 @@
 **Yoda-Quotes** is a simple app for Fitbit OS that generates a pseudo-random quote from an array of 45 Yoda quotes. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). **Yoda-Quotes** is available for install from the Fitbit App Gallery: [Yoda-Quotes](https://gallery.fitbit.com/details/001f0feb-9bf0-49db-88ed-10010b4e862b).
 
 ## Devices
-**Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300) and Versa Lite (300x300):
+**Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300) and Versa Lite (300x300).
+**Yoda-Quotes** Update for new Fitbit Versa 2 compatibility in progress.
 
 <p align="left">
   <img width="175" height="175" src=./screenshots/yoda-quotes-versa.png>
