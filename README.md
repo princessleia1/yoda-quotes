@@ -11,7 +11,7 @@
   <img width="175" height="175" src=./screenshots/yoda-quotes-versa-2.png>
 </p>
 
-## Versa 2 Device
+## Device Compatibility
 **TODO:**
 - [ ] Update CSS, JS, GUI Files to support new Versa 2 Device and Fitbit SDK.
 - [x] Update Background for Versa 2 Device.
