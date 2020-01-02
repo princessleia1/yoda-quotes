@@ -15,8 +15,9 @@
 **Yoda-Quotes** App Update for New Fitbit Versa 2 compatibility in progress.
 
 **TODO:**
-- [ ] Update CSS, JS, GUI Files to support new Versa 2 Device and Fitbit SDK.
-- [x] Update/ optimise Background Image for Versa 2 Device compatibility.
+- [ ] Update CSS, JS, GUI Files to support new Versa 2 Device and Fitbit SDK 4.1.
+- [ ] Optimise Background Image for Versa 2 Device compatibility.
+- [ ] Add further Yoda Quotes to array.
 
 ## Attribution
 **Yoda-Quotes** Image [Yoda-star-wars-jedi-she-makes-1091030](https://pixabay.com/illustrations/yoda-star-wars-jedi-she-makes-1091030/) Attribution [Comfreak](https://pixabay.com/users/comfreak-51581/) | Simplified [Pixabay License](https://pixabay.com/service/license/).
