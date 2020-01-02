@@ -19,6 +19,30 @@
 - [ ] Optimise Background Image for Versa 2 Device compatibility.
 - [ ] Add further Yoda Quotes to array.
 
+## Build
+**Pre-requisites:**
+* Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
+* ```git clone https://github.com/princessleia1/yoda-quotes.git ```
+* Edit package.json file and add the Fitbit CLI dependencies:
+```
+"devDependencies": {
+   "@fitbit/sdk": "^3.1.2",
+   "@fitbit/sdk-cli": "^1.7.0"
+}
+```
+* Developer Bridge on Mobile Device and Fitbit Device connected.
+
+## Install
+Using Fitbit SDK CLI Tool via ```Console```:
+
+```
+npm add @fitbit/sdk
+npm add @fitbit/sdk-cli
+npx fitbit-build generate-appid
+npx fitbit-build
+npx fitbit
+fitbit$ install
+```
 ## Attribution
 **Yoda-Quotes** Image [Yoda-star-wars-jedi-she-makes-1091030](https://pixabay.com/illustrations/yoda-star-wars-jedi-she-makes-1091030/) Attribution [Comfreak](https://pixabay.com/users/comfreak-51581/) | Simplified [Pixabay License](https://pixabay.com/service/license/).
 
