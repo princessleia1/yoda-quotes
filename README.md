@@ -11,7 +11,7 @@
   <img width="175" height="175" src=./screenshots/yoda-quotes-versa-2.png>
 </p>
 
-## Device Compatibility
+## Compatibility
 **Yoda-Quotes** App requires updates for the new Versa 2 Device for the app compatibility utilising SDK 4.1.
 
 **TODO:**
