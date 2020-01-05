@@ -15,9 +15,9 @@
 **Yoda-Quotes** App requires updates for the new Versa 2 Device for the app compatibility utilising SDK 4.1.
 
 **TODO:**
-- [ ] Update CSS, JS, GUI Files to support Versa 2 Device and Fitbit SDK 4.1.
+- [ ] Add support for Gemini and Mira Fitbit SDK 4.1.
 - [ ] Optimise Background Image for Versa 2 Device compatibility.
-- [ ] Add further Yoda Quotes to array.
+- [ ] Add further Yoda Quotes to 'quotesArray'.
 
 ## Build
 **Pre-requisites:**
