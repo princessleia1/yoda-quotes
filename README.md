@@ -1,5 +1,5 @@
 # Yoda-Quotes
-**Yoda-Quotes** is a simple app for Fitbit OS that generates a pseudo-random quote from an array of 45 Yoda quotes. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). **Yoda-Quotes** is available for install from the Fitbit App Gallery: [Yoda-Quotes](https://gallery.fitbit.com/details/001f0feb-9bf0-49db-88ed-10010b4e862b).
+**Yoda-Quotes** is a simple app for Fitbit OS that generates a pseudo-random quote from an array of 45 Yoda quotes. This app currently uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). **Yoda-Quotes** is available for install from the Fitbit App Gallery: [Yoda-Quotes](https://gallery.fitbit.com/details/001f0feb-9bf0-49db-88ed-10010b4e862b).
 
 ## Devices
 **Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300) and Versa Lite (300x300).
@@ -12,12 +12,13 @@
 </p>
 
 ## Compatibility
-**Yoda-Quotes** App requires updates for the new Versa 2 Device for the app compatibility utilising SDK 4.1.
+**Yoda-Quotes** App requires updates for the new Versa 2 Device for app compatibility utilising Fitbit OS SDK V4.1.
 
 **TODO:**
-- [ ] Add support for Gemini and Mira Fitbit SDK 4.1.
+- [ ] Updates for Gemini and Mira Build Targets.
+- [ ] Updates for Fitbit OS SDK Version 4.1.
 - [ ] Optimise Background Image for Versa 2 Device compatibility.
-- [ ] Add further Yoda Quotes to 'quotesArray'.
+- [ ] Add further Quotes to 'Yoda Quotes Array'.
 
 ## Build
 **Pre-requisites:**
@@ -26,7 +27,7 @@
 * Edit package.json file and add the Fitbit CLI dependencies:
 ```
 "devDependencies": {
-   "@fitbit/sdk": "^3.1.2",
+   "@fitbit/sdk": "~4.1.0",
    "@fitbit/sdk-cli": "^1.7.0"
 }
 ```
