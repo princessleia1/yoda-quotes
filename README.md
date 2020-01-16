@@ -26,7 +26,7 @@
 * Edit package.json file and add the Fitbit CLI dependencies:
 ```
 "devDependencies": {
-   "@fitbit/sdk": "~4.1.0",
+   "@fitbit/sdk": "^3.1.2",
    "@fitbit/sdk-cli": "^1.7.0"
 }
 ```
