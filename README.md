@@ -13,12 +13,6 @@
 
 ## Compatibility
 **Yoda-Quotes** App requires updates for the new Versa 2 Device for app compatibility utilising Fitbit OS SDK V4.1.
-
-**TODO:**
-- [ ] Update package.JSON for Gemini and Mira Build Targets.
-- [ ] Update code required for Fitbit OS SDK Version 4.1 compatibility.
-- [ ] Add further Quotes to 'Yoda Quotes Array'.
-
 ## Build
 **Pre-requisites:**
 * Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
