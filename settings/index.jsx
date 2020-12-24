@@ -28,7 +28,7 @@ function mySettings(props) {
       <Section
         title={<Text bold align="center">Build Version</Text>}>
         <Text>
-          1.0.2 - Initial Publish.
+          V1.0.3 - Update SDK V4.2 Fitbit Ionic, Fitbit Versa 2, Fitbit Versa, Fitbit Versa Lite.
         </Text>
       </Section>
     </Page>
