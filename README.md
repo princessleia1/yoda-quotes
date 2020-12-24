@@ -1,8 +1,8 @@
 # Yoda-Quotes
-**Yoda-Quotes** is a simple app for Fitbit OS that generates a pseudo-random quote from an array of 45 Yoda quotes. This app currently uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). **Yoda-Quotes** is available for install from the Fitbit App Gallery: [Yoda-Quotes](https://gallery.fitbit.com/details/001f0feb-9bf0-49db-88ed-10010b4e862b).
+**Yoda-Quotes** is a simple app for Fitbit OS that generates a pseudo-random quote from an array of 45 Yoda quotes. This app currently uses [Fitbit SDK V4.2.0](https://github.com/Fitbit). **Yoda-Quotes** is available for install from the Fitbit App Gallery: [Yoda-Quotes](https://gallery.fitbit.com/details/001f0feb-9bf0-49db-88ed-10010b4e862b). **Yoda-Quotes** is not compatible with Fitbit SDK 5.0 for Fitbit Versa 3 and Fitbit Sense.
 
 ## Devices
-**Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300) and Versa Lite (300x300).
+**Yoda-Quotes** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa 2 (300x300), and Versa Lite (300x300).
 
 <p align="left">
   <img width="175" height="175" src=./screenshots/yoda-quotes-versa.png>
@@ -12,7 +12,8 @@
 </p>
 
 ## Compatibility
-**Yoda-Quotes** App requires updates for the new Versa 2 Device for app compatibility utilising Fitbit OS SDK V4.1.
+**Yoda-Quotes** is not compatible with Fitbit SDK 5.0 for Fitbit Versa 3 and Fitbit Sense.
+
 ## Build
 **Pre-requisites:**
 * Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
